@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "326157211250",
+    "project_id": "myfirstapp-2911",
+    "storage_bucket": "myfirstapp-2911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326157211250:android:8ca01a3b2d1c6c015614eb",
+        "android_client_info": {
+          "package_name": "com.example.nadarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326157211250-682ueoq6s4n58brdeqj3sasu08gge3bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nadarat",
+            "certificate_hash": "ea2e55c1f81bebd7e1fdddd6cfb723cab63814a2"
+          }
+        },
+        {
+          "client_id": "326157211250-7igo920snrjt3i4h2dtq0sbehm5d21gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvHCn2rwr8gcHa9G5JcShcX0yFfWyKyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326157211250-7igo920snrjt3i4h2dtq0sbehm5d21gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326157211250-kgikdg2fh7d452ghbmh45d4b2vpacuup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nadarat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
