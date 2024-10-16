@@ -20,12 +20,12 @@ The Home Page displays a scrollable list of eyeglasses, allowing users to browse
 - 3. Profile Page
 The Profile Page shows the user’s name and email, with options to:
 
---View My Orders
---Access My Wishlist
---Learn more About OptiStyle
---Sign Out securely via Firebase's sign-out method.
+-View My Orders
+-Access My Wishlist
+-Learn more About OptiStyle
+-Sign Out securely via Firebase's sign-out method.
 
--4. Cart Page
+- 4. Cart Page
 Users can manage the items they've added to their cart. The Cart page allows users to:
 
 --Remove items from the cart.
@@ -41,7 +41,7 @@ The CallUs page provides detailed information about OptiStyle, including ways to
 Dependencies
 This project uses several Flutter packages to handle various features:
 
---Firebase Authentication: Manages user sign-in, sign-up, and session tracking.
---Google Sign-In: Allows users to authenticate using their Google account.
---GetX: State management and navigation tool for efficient page transitions and data handling.
---Google Fonts: Custom fonts for creating a modern UI.
+- Firebase Authentication: Manages user sign-in, sign-up, and session tracking.
+- Google Sign-In: Allows users to authenticate using their Google account.
+- GetX: State management and navigation tool for efficient page transitions and data handling.
+- Google Fonts: Custom fonts for creating a modern UI.
