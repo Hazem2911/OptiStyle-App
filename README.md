@@ -20,17 +20,17 @@ The Home Page displays a scrollable list of eyeglasses, allowing users to browse
 - 3. Profile Page
 The Profile Page shows the user’s name and email, with options to:
 
--View My Orders
--Access My Wishlist
--Learn more About OptiStyle
--Sign Out securely via Firebase's sign-out method.
+- View My Orders
+- Access My Wishlist
+- Learn more About OptiStyle
+- Sign Out securely via Firebase's sign-out method.
 
 - 4. Cart Page
 Users can manage the items they've added to their cart. The Cart page allows users to:
 
---Remove items from the cart.
---Proceed to checkout (functionality can be expanded).
---View the total cost of their items.
+- Remove items from the cart.
+- Proceed to checkout (functionality can be expanded).
+- View the total cost of their items.
 
 - 5. Wishlist Page
 The Wishlist page lets users view and manage their favorite products. Users can easily add items to the cart or remove them from the wishlist.
