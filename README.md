@@ -1,6 +1,9 @@
 # 👓 OptiStyle – Eyewear Shopping App
 
+![OptiStyle Banner](assets/images/OptiStyle.png)
+
 OptiStyle is a modern mobile application built with Flutter to provide users with an easy and enjoyable experience for browsing, managing, and purchasing eyeglasses.
+
 
 This project was developed as my final workshop project at **Star Union**, focusing on hands-on learning, self-research, and practical application of Flutter development skills.
 
