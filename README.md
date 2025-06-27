@@ -1,47 +1,102 @@
-OptiStyle - Eyewear Shopping App
-OptiStyle is a mobile application designed to provide users with an easy and enjoyable experience for browsing, managing, and purchasing eyeglasses. The app uses Firebase Authentication for secure login and state management via GetX, offering a smooth and efficient user interface.
+# 👓 OptiStyle – Eyewear Shopping App
 
-Features
-- User Authentication: Secure login and registration using Firebase Authentication, with support for Google Sign-In.
-- Shopping Cart: Allows users to add, update, and manage eyeglasses in their cart.
-- Wishlist: Users can save their favorite items for later access.
-- Profile Management: Displays user information, including options to view orders, wishlist, app details, and sign out.
-- About OptiStyle: Provides detailed information about the brand, with contact options.
-- Smooth Navigation: Efficient page navigation implemented using GetX.
+OptiStyle is a modern mobile application built with Flutter to provide users with an easy and enjoyable experience for browsing, managing, and purchasing eyeglasses.
 
-Screens
-- 1. Sign In & Sign Up
-SignIn Page: Users can log in using their email and password, or authenticate with Google via Firebase.
-SignUp Page: New users can register by providing their name, email, and password. A verification email is sent upon successful registration.
+This project was developed as my final workshop project at **Star Union**, focusing on hands-on learning, self-research, and practical application of Flutter development skills.
 
-- 2. Home Page
-The Home Page displays a scrollable list of eyeglasses, allowing users to browse and add products to their cart or wishlist. A cart icon in the AppBar provides quick access to the shopping cart.
+---
 
-- 3. Profile Page
-The Profile Page shows the user’s name and email, with options to:
+## 📽️ Demo Video
 
-- View My Orders
-- Access My Wishlist
-- Learn more About OptiStyle
-- Sign Out securely via Firebase's sign-out method.
+▶️ [Watch the Demo](https://drive.google.com/drive/folders/1VHearQ3TPyalyKc9Imm9fSgFfm7BeR9Z?usp=sharing)
 
-- 4. Cart Page
-Users can manage the items they've added to their cart. The Cart page allows users to:
+> *(Opens in Google Drive)*
 
-- Remove items from the cart.
-- Proceed to checkout (functionality can be expanded).
-- View the total cost of their items.
+---
 
-- 5. Wishlist Page
-The Wishlist page lets users view and manage their favorite products. Users can easily add items to the cart or remove them from the wishlist.
+## 🚀 Features
 
-- 6. About OptiStyle
-The CallUs page provides detailed information about OptiStyle, including ways to contact customer support for inquiries.
+- 🔐 **User Authentication**
+  - Secure sign-up and login using Firebase Authentication
+  - Google Sign-In integration
 
-Dependencies
-This project uses several Flutter packages to handle various features:
+- 🛒 **Shopping Cart**
+  - Add, update, and remove eyeglasses from cart
+  - View total cost
+  - Proceed to checkout *(future expansion supported)*
 
-- Firebase Authentication: Manages user sign-in, sign-up, and session tracking.
-- Google Sign-In: Allows users to authenticate using their Google account.
-- GetX: State management and navigation tool for efficient page transitions and data handling.
-- Google Fonts: Custom fonts for creating a modern UI.
+- ❤️ **Wishlist**
+  - Save favorite items for quick access
+  - Add/remove items with ease
+
+- 👤 **Profile Management**
+  - View user info (name, email)
+  - Access order history, wishlist, app info, and logout
+
+- 📱 **Smooth Navigation**
+  - Powered by GetX for state management and fast routing
+
+- 📝 **About OptiStyle**
+  - Dedicated section to learn more about the brand
+  - Contact options included
+
+---
+
+## 📲 App Screens Overview
+
+### 🔑 Sign In & Sign Up
+- Login via email/password or Google
+- New users register with email verification
+
+### 🏠 Home Page
+- Scrollable list of eyeglasses
+- Quick add to cart or wishlist
+- Cart shortcut in AppBar
+
+### 👤 Profile Page
+- Access to:
+  - My Orders
+  - Wishlist
+  - App Info
+  - Logout via Firebase
+
+### 🛒 Cart Page
+- Manage selected items
+- View total price
+- Remove or proceed to checkout
+
+### ❤️ Wishlist Page
+- Save favorite items
+- Add to cart or remove
+
+### ℹ️ About Page
+- Brand details and customer support info
+
+---
+
+## 🧰 Tech Stack & Dependencies
+
+- **Flutter & Dart**
+- **Firebase Authentication** – Secure login and session management
+- **Google Sign-In** – One-tap login support
+- **GetX** – State management and navigation
+- **Google Fonts** – Custom typography
+
+---
+
+## 📂 Project Status
+
+✅ MVP Completed  
+🚧 Future: Checkout integration, backend product management, order tracking
+
+---
+
+## 🙋‍♂️ Author
+
+**Hazem Ahmed**  
+🔗 [LinkedIn](https://www.linkedin.com/in/hazem-ahmed-39273b309/)  
+📧 hazemahmedd56@email.com
+
+---
+
+> “Built with Flutter, driven by curiosity.” – Hazem
